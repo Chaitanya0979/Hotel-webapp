@@ -79,7 +79,7 @@ const Policies = styled.ul`
 const HotelComponent = ({ hotels }) => {
   return (
     <PageContainer>
-      <Header>Beautiful Hotels Showcase</Header>
+      <Header>American Hotels</Header>
       <HotelGrid>
         {hotels.map((hotel) => (
           <HotelCard key={hotel.id}>
