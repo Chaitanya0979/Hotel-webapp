@@ -1,0 +1,2237 @@
+[
+  {
+      "id": 1,
+      "name": "Hotel 1",
+      "location": "Atlanta",
+      "roomsAvailable": 12,
+      "pricePerNight": 210,
+      "rating": 4.0,
+      "amenities": [
+          "Bar",
+          "WiFi",
+          "Parking",
+          "Gym",
+          "Restaurant",
+          "Spa"
+      ],
+      "description": "Hotel 1 is a premium location offering excellent services and amenities.",
+      "reviews": 700,
+      "distanceFromCityCenter": 5.8,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Check-in from 3 PM",
+          "Pets allowed for an additional charge",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 2,
+      "name": "Hotel 2",
+      "location": "Los Angeles",
+      "roomsAvailable": 15,
+      "pricePerNight": 195,
+      "rating": 3.9,
+      "amenities": [
+          "Restaurant",
+          "Beach Access",
+          "Room Service"
+      ],
+      "description": "Hotel 2 is a premium location offering excellent services and amenities.",
+      "reviews": 981,
+      "distanceFromCityCenter": 1.8,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Check-in from 3 PM",
+          "Free cancellation up to 24 hours before check-in",
+          "Late check-out available on request"
+      ]
+  },
+  {
+      "id": 3,
+      "name": "Hotel 3",
+      "location": "Chicago",
+      "roomsAvailable": 5,
+      "pricePerNight": 163,
+      "rating": 3.8,
+      "amenities": [
+          "Free Breakfast",
+          "Restaurant",
+          "Pool",
+          "WiFi",
+          "Beach Access"
+      ],
+      "description": "Hotel 3 is a premium location offering excellent services and amenities.",
+      "reviews": 365,
+      "distanceFromCityCenter": 0.9,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "Check-in from 3 PM",
+          "Late check-out available on request"
+      ]
+  },
+  {
+      "id": 4,
+      "name": "Hotel 4",
+      "location": "Atlanta",
+      "roomsAvailable": 10,
+      "pricePerNight": 196,
+      "rating": 5.0,
+      "amenities": [
+          "Spa",
+          "Gym",
+          "Free Breakfast",
+          "Restaurant",
+          "Beach Access",
+          "WiFi"
+      ],
+      "description": "Hotel 4 is a premium location offering excellent services and amenities.",
+      "reviews": 296,
+      "distanceFromCityCenter": 3.3,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Late check-out available on request",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 5,
+      "name": "Hotel 5",
+      "location": "Miami",
+      "roomsAvailable": 14,
+      "pricePerNight": 152,
+      "rating": 4.8,
+      "amenities": [
+          "Beach Access",
+          "Restaurant",
+          "Room Service",
+          "Parking"
+      ],
+      "description": "Hotel 5 is a premium location offering excellent services and amenities.",
+      "reviews": 272,
+      "distanceFromCityCenter": 6.5,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Free cancellation up to 24 hours before check-in",
+          "Late check-out available on request"
+      ]
+  },
+  {
+      "id": 6,
+      "name": "Hotel 6",
+      "location": "Chicago",
+      "roomsAvailable": 5,
+      "pricePerNight": 117,
+      "rating": 4.8,
+      "amenities": [
+          "Room Service",
+          "Spa",
+          "Beach Access"
+      ],
+      "description": "Hotel 6 is a premium location offering excellent services and amenities.",
+      "reviews": 774,
+      "distanceFromCityCenter": 4.6,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Check-in from 3 PM",
+          "Free cancellation up to 24 hours before check-in"
+      ]
+  },
+  {
+      "id": 7,
+      "name": "Hotel 7",
+      "location": "San Francisco",
+      "roomsAvailable": 11,
+      "pricePerNight": 213,
+      "rating": 4.2,
+      "amenities": [
+          "Spa",
+          "Room Service",
+          "Pool",
+          "Restaurant"
+      ],
+      "description": "Hotel 7 is a premium location offering excellent services and amenities.",
+      "reviews": 255,
+      "distanceFromCityCenter": 8.2,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 8,
+      "name": "Hotel 8",
+      "location": "Denver",
+      "roomsAvailable": 12,
+      "pricePerNight": 205,
+      "rating": 4.8,
+      "amenities": [
+          "Gym",
+          "Restaurant",
+          "Pool"
+      ],
+      "description": "Hotel 8 is a premium location offering excellent services and amenities.",
+      "reviews": 465,
+      "distanceFromCityCenter": 9.5,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Pets allowed for an additional charge",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 9,
+      "name": "Hotel 9",
+      "location": "Denver",
+      "roomsAvailable": 7,
+      "pricePerNight": 299,
+      "rating": 4.6,
+      "amenities": [
+          "Bar",
+          "Room Service",
+          "Free Breakfast"
+      ],
+      "description": "Hotel 9 is a premium location offering excellent services and amenities.",
+      "reviews": 237,
+      "distanceFromCityCenter": 6.9,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 10,
+      "name": "Hotel 10",
+      "location": "San Francisco",
+      "roomsAvailable": 6,
+      "pricePerNight": 80,
+      "rating": 3.9,
+      "amenities": [
+          "WiFi",
+          "Pool",
+          "Gym",
+          "Parking",
+          "Room Service"
+      ],
+      "description": "Hotel 10 is a premium location offering excellent services and amenities.",
+      "reviews": 994,
+      "distanceFromCityCenter": 5.5,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 11,
+      "name": "Hotel 11",
+      "location": "Denver",
+      "roomsAvailable": 13,
+      "pricePerNight": 108,
+      "rating": 4.4,
+      "amenities": [
+          "Parking",
+          "Gym",
+          "Room Service",
+          "Beach Access"
+      ],
+      "description": "Hotel 11 is a premium location offering excellent services and amenities.",
+      "reviews": 443,
+      "distanceFromCityCenter": 4.8,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Pets allowed for an additional charge",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 12,
+      "name": "Hotel 12",
+      "location": "Atlanta",
+      "roomsAvailable": 18,
+      "pricePerNight": 121,
+      "rating": 4.4,
+      "amenities": [
+          "Pool",
+          "Bar",
+          "Free Breakfast",
+          "Restaurant",
+          "Room Service"
+      ],
+      "description": "Hotel 12 is a premium location offering excellent services and amenities.",
+      "reviews": 809,
+      "distanceFromCityCenter": 8.9,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 13,
+      "name": "Hotel 13",
+      "location": "San Francisco",
+      "roomsAvailable": 17,
+      "pricePerNight": 243,
+      "rating": 4.8,
+      "amenities": [
+          "Parking",
+          "Bar",
+          "Room Service",
+          "Gym",
+          "Spa",
+          "Free Breakfast"
+      ],
+      "description": "Hotel 13 is a premium location offering excellent services and amenities.",
+      "reviews": 824,
+      "distanceFromCityCenter": 1.1,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Late check-out available on request",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 14,
+      "name": "Hotel 14",
+      "location": "Atlanta",
+      "roomsAvailable": 17,
+      "pricePerNight": 105,
+      "rating": 4.0,
+      "amenities": [
+          "Pool",
+          "Beach Access",
+          "Parking"
+      ],
+      "description": "Hotel 14 is a premium location offering excellent services and amenities.",
+      "reviews": 331,
+      "distanceFromCityCenter": 2.0,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Late check-out available on request",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 15,
+      "name": "Hotel 15",
+      "location": "Los Angeles",
+      "roomsAvailable": 7,
+      "pricePerNight": 124,
+      "rating": 3.9,
+      "amenities": [
+          "Room Service",
+          "Gym",
+          "Pool",
+          "Parking"
+      ],
+      "description": "Hotel 15 is a premium location offering excellent services and amenities.",
+      "reviews": 340,
+      "distanceFromCityCenter": 2.5,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Check-in from 3 PM",
+          "No smoking in rooms",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 16,
+      "name": "Hotel 16",
+      "location": "Miami",
+      "roomsAvailable": 18,
+      "pricePerNight": 265,
+      "rating": 3.8,
+      "amenities": [
+          "Gym",
+          "WiFi",
+          "Bar",
+          "Parking"
+      ],
+      "description": "Hotel 16 is a premium location offering excellent services and amenities.",
+      "reviews": 134,
+      "distanceFromCityCenter": 5.7,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Check-in from 3 PM",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 17,
+      "name": "Hotel 17",
+      "location": "Miami",
+      "roomsAvailable": 18,
+      "pricePerNight": 128,
+      "rating": 4.9,
+      "amenities": [
+          "Free Breakfast",
+          "Spa",
+          "WiFi",
+          "Room Service",
+          "Parking"
+      ],
+      "description": "Hotel 17 is a premium location offering excellent services and amenities.",
+      "reviews": 658,
+      "distanceFromCityCenter": 2.1,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "Late check-out available on request",
+          "Check-in from 3 PM",
+          "Free cancellation up to 24 hours before check-in"
+      ]
+  },
+  {
+      "id": 18,
+      "name": "Hotel 18",
+      "location": "Houston",
+      "roomsAvailable": 6,
+      "pricePerNight": 281,
+      "rating": 3.9,
+      "amenities": [
+          "Room Service",
+          "Gym",
+          "Bar",
+          "Restaurant",
+          "Parking"
+      ],
+      "description": "Hotel 18 is a premium location offering excellent services and amenities.",
+      "reviews": 770,
+      "distanceFromCityCenter": 1.1,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 19,
+      "name": "Hotel 19",
+      "location": "Houston",
+      "roomsAvailable": 8,
+      "pricePerNight": 167,
+      "rating": 3.8,
+      "amenities": [
+          "Pool",
+          "Bar",
+          "WiFi",
+          "Restaurant",
+          "Room Service"
+      ],
+      "description": "Hotel 19 is a premium location offering excellent services and amenities.",
+      "reviews": 765,
+      "distanceFromCityCenter": 3.7,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 20,
+      "name": "Hotel 20",
+      "location": "San Francisco",
+      "roomsAvailable": 8,
+      "pricePerNight": 109,
+      "rating": 3.5,
+      "amenities": [
+          "Restaurant",
+          "Gym",
+          "WiFi",
+          "Pool",
+          "Free Breakfast",
+          "Bar"
+      ],
+      "description": "Hotel 20 is a premium location offering excellent services and amenities.",
+      "reviews": 288,
+      "distanceFromCityCenter": 1.0,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Check-in from 3 PM",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 21,
+      "name": "Hotel 21",
+      "location": "Chicago",
+      "roomsAvailable": 15,
+      "pricePerNight": 222,
+      "rating": 4.1,
+      "amenities": [
+          "Gym",
+          "WiFi",
+          "Free Breakfast",
+          "Bar",
+          "Beach Access"
+      ],
+      "description": "Hotel 21 is a premium location offering excellent services and amenities.",
+      "reviews": 453,
+      "distanceFromCityCenter": 9.8,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Check-in from 3 PM",
+          "Free cancellation up to 24 hours before check-in",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 22,
+      "name": "Hotel 22",
+      "location": "Seattle",
+      "roomsAvailable": 7,
+      "pricePerNight": 196,
+      "rating": 5.0,
+      "amenities": [
+          "Free Breakfast",
+          "Pool",
+          "Restaurant"
+      ],
+      "description": "Hotel 22 is a premium location offering excellent services and amenities.",
+      "reviews": 347,
+      "distanceFromCityCenter": 0.8,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Check-in from 3 PM",
+          "Late check-out available on request",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 23,
+      "name": "Hotel 23",
+      "location": "Houston",
+      "roomsAvailable": 8,
+      "pricePerNight": 193,
+      "rating": 4.5,
+      "amenities": [
+          "Bar",
+          "Free Breakfast",
+          "Restaurant",
+          "Beach Access",
+          "WiFi",
+          "Spa"
+      ],
+      "description": "Hotel 23 is a premium location offering excellent services and amenities.",
+      "reviews": 604,
+      "distanceFromCityCenter": 3.7,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Pets allowed for an additional charge",
+          "Free cancellation up to 24 hours before check-in"
+      ]
+  },
+  {
+      "id": 24,
+      "name": "Hotel 24",
+      "location": "San Francisco",
+      "roomsAvailable": 18,
+      "pricePerNight": 175,
+      "rating": 4.2,
+      "amenities": [
+          "Room Service",
+          "WiFi",
+          "Pool",
+          "Free Breakfast",
+          "Gym",
+          "Beach Access"
+      ],
+      "description": "Hotel 24 is a premium location offering excellent services and amenities.",
+      "reviews": 264,
+      "distanceFromCityCenter": 3.6,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 25,
+      "name": "Hotel 25",
+      "location": "Boston",
+      "roomsAvailable": 14,
+      "pricePerNight": 148,
+      "rating": 4.2,
+      "amenities": [
+          "Gym",
+          "Beach Access",
+          "Room Service",
+          "Parking",
+          "Free Breakfast"
+      ],
+      "description": "Hotel 25 is a premium location offering excellent services and amenities.",
+      "reviews": 259,
+      "distanceFromCityCenter": 1.4,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Check-in from 3 PM",
+          "Free cancellation up to 24 hours before check-in"
+      ]
+  },
+  {
+      "id": 26,
+      "name": "Hotel 26",
+      "location": "Denver",
+      "roomsAvailable": 12,
+      "pricePerNight": 280,
+      "rating": 4.2,
+      "amenities": [
+          "Gym",
+          "Room Service",
+          "Spa",
+          "Parking",
+          "WiFi",
+          "Beach Access"
+      ],
+      "description": "Hotel 26 is a premium location offering excellent services and amenities.",
+      "reviews": 676,
+      "distanceFromCityCenter": 7.2,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "Check-in from 3 PM",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 27,
+      "name": "Hotel 27",
+      "location": "Los Angeles",
+      "roomsAvailable": 5,
+      "pricePerNight": 189,
+      "rating": 4.9,
+      "amenities": [
+          "Room Service",
+          "Spa",
+          "WiFi",
+          "Pool",
+          "Restaurant"
+      ],
+      "description": "Hotel 27 is a premium location offering excellent services and amenities.",
+      "reviews": 577,
+      "distanceFromCityCenter": 3.2,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "No smoking in rooms",
+          "Free cancellation up to 24 hours before check-in"
+      ]
+  },
+  {
+      "id": 28,
+      "name": "Hotel 28",
+      "location": "Denver",
+      "roomsAvailable": 16,
+      "pricePerNight": 289,
+      "rating": 3.9,
+      "amenities": [
+          "WiFi",
+          "Gym",
+          "Free Breakfast",
+          "Spa",
+          "Room Service",
+          "Restaurant"
+      ],
+      "description": "Hotel 28 is a premium location offering excellent services and amenities.",
+      "reviews": 651,
+      "distanceFromCityCenter": 4.3,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 29,
+      "name": "Hotel 29",
+      "location": "Miami",
+      "roomsAvailable": 14,
+      "pricePerNight": 174,
+      "rating": 4.4,
+      "amenities": [
+          "Gym",
+          "Beach Access",
+          "WiFi",
+          "Free Breakfast",
+          "Parking",
+          "Room Service"
+      ],
+      "description": "Hotel 29 is a premium location offering excellent services and amenities.",
+      "reviews": 735,
+      "distanceFromCityCenter": 3.5,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Check-in from 3 PM",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 30,
+      "name": "Hotel 30",
+      "location": "Seattle",
+      "roomsAvailable": 13,
+      "pricePerNight": 270,
+      "rating": 4.5,
+      "amenities": [
+          "Parking",
+          "Spa",
+          "Gym",
+          "Restaurant",
+          "Room Service",
+          "Bar"
+      ],
+      "description": "Hotel 30 is a premium location offering excellent services and amenities.",
+      "reviews": 310,
+      "distanceFromCityCenter": 3.9,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Late check-out available on request",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 31,
+      "name": "Hotel 31",
+      "location": "New York",
+      "roomsAvailable": 14,
+      "pricePerNight": 232,
+      "rating": 3.6,
+      "amenities": [
+          "Restaurant",
+          "Free Breakfast",
+          "Spa",
+          "Room Service"
+      ],
+      "description": "Hotel 31 is a premium location offering excellent services and amenities.",
+      "reviews": 394,
+      "distanceFromCityCenter": 0.9,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "Free cancellation up to 24 hours before check-in",
+          "Late check-out available on request",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 32,
+      "name": "Hotel 32",
+      "location": "Seattle",
+      "roomsAvailable": 10,
+      "pricePerNight": 277,
+      "rating": 4.8,
+      "amenities": [
+          "Room Service",
+          "Gym",
+          "Parking",
+          "WiFi",
+          "Bar",
+          "Beach Access"
+      ],
+      "description": "Hotel 32 is a premium location offering excellent services and amenities.",
+      "reviews": 143,
+      "distanceFromCityCenter": 5.3,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 33,
+      "name": "Hotel 33",
+      "location": "Houston",
+      "roomsAvailable": 10,
+      "pricePerNight": 292,
+      "rating": 4.7,
+      "amenities": [
+          "Pool",
+          "Free Breakfast",
+          "Room Service",
+          "Restaurant",
+          "Parking",
+          "Beach Access"
+      ],
+      "description": "Hotel 33 is a premium location offering excellent services and amenities.",
+      "reviews": 935,
+      "distanceFromCityCenter": 8.6,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 34,
+      "name": "Hotel 34",
+      "location": "Houston",
+      "roomsAvailable": 14,
+      "pricePerNight": 287,
+      "rating": 4.8,
+      "amenities": [
+          "Spa",
+          "Gym",
+          "Bar",
+          "Restaurant",
+          "Free Breakfast"
+      ],
+      "description": "Hotel 34 is a premium location offering excellent services and amenities.",
+      "reviews": 574,
+      "distanceFromCityCenter": 2.7,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Late check-out available on request"
+      ]
+  },
+  {
+      "id": 35,
+      "name": "Hotel 35",
+      "location": "Miami",
+      "roomsAvailable": 17,
+      "pricePerNight": 124,
+      "rating": 4.0,
+      "amenities": [
+          "Restaurant",
+          "Parking",
+          "Pool",
+          "Beach Access"
+      ],
+      "description": "Hotel 35 is a premium location offering excellent services and amenities.",
+      "reviews": 124,
+      "distanceFromCityCenter": 3.0,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Late check-out available on request",
+          "No smoking in rooms",
+          "Check-in from 3 PM",
+          "Pets allowed for an additional charge"
+      ]
+  },
+  {
+      "id": 36,
+      "name": "Hotel 36",
+      "location": "Chicago",
+      "roomsAvailable": 15,
+      "pricePerNight": 214,
+      "rating": 4.4,
+      "amenities": [
+          "Pool",
+          "Beach Access",
+          "Gym",
+          "Parking",
+          "Restaurant"
+      ],
+      "description": "Hotel 36 is a premium location offering excellent services and amenities.",
+      "reviews": 114,
+      "distanceFromCityCenter": 6.8,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Late check-out available on request",
+          "Pets allowed for an additional charge",
+          "Free cancellation up to 24 hours before check-in",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 37,
+      "name": "Hotel 37",
+      "location": "San Francisco",
+      "roomsAvailable": 6,
+      "pricePerNight": 89,
+      "rating": 4.1,
+      "amenities": [
+          "WiFi",
+          "Beach Access",
+          "Bar"
+      ],
+      "description": "Hotel 37 is a premium location offering excellent services and amenities.",
+      "reviews": 182,
+      "distanceFromCityCenter": 0.7,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "Check-in from 3 PM",
+          "No smoking in rooms",
+          "Free cancellation up to 24 hours before check-in"
+      ]
+  },
+  {
+      "id": 38,
+      "name": "Hotel 38",
+      "location": "Chicago",
+      "roomsAvailable": 15,
+      "pricePerNight": 100,
+      "rating": 4.5,
+      "amenities": [
+          "Room Service",
+          "Gym",
+          "Bar",
+          "Beach Access",
+          "Pool"
+      ],
+      "description": "Hotel 38 is a premium location offering excellent services and amenities.",
+      "reviews": 777,
+      "distanceFromCityCenter": 0.9,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "Free cancellation up to 24 hours before check-in",
+          "No smoking in rooms",
+          "Late check-out available on request"
+      ]
+  },
+  {
+      "id": 39,
+      "name": "Hotel 39",
+      "location": "Chicago",
+      "roomsAvailable": 16,
+      "pricePerNight": 241,
+      "rating": 3.8,
+      "amenities": [
+          "Spa",
+          "Room Service",
+          "Beach Access",
+          "Restaurant",
+          "Gym"
+      ],
+      "description": "Hotel 39 is a premium location offering excellent services and amenities.",
+      "reviews": 392,
+      "distanceFromCityCenter": 8.2,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "Free cancellation up to 24 hours before check-in",
+          "No smoking in rooms",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 40,
+      "name": "Hotel 40",
+      "location": "Houston",
+      "roomsAvailable": 10,
+      "pricePerNight": 181,
+      "rating": 3.7,
+      "amenities": [
+          "Beach Access",
+          "Spa",
+          "Free Breakfast",
+          "Bar"
+      ],
+      "description": "Hotel 40 is a premium location offering excellent services and amenities.",
+      "reviews": 350,
+      "distanceFromCityCenter": 9.9,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 41,
+      "name": "Hotel 41",
+      "location": "Los Angeles",
+      "roomsAvailable": 18,
+      "pricePerNight": 156,
+      "rating": 4.7,
+      "amenities": [
+          "Pool",
+          "Free Breakfast",
+          "WiFi"
+      ],
+      "description": "Hotel 41 is a premium location offering excellent services and amenities.",
+      "reviews": 815,
+      "distanceFromCityCenter": 7.6,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Late check-out available on request",
+          "Free cancellation up to 24 hours before check-in"
+      ]
+  },
+  {
+      "id": 42,
+      "name": "Hotel 42",
+      "location": "Chicago",
+      "roomsAvailable": 18,
+      "pricePerNight": 250,
+      "rating": 3.8,
+      "amenities": [
+          "Spa",
+          "Restaurant",
+          "Gym",
+          "Pool",
+          "Parking",
+          "Room Service"
+      ],
+      "description": "Hotel 42 is a premium location offering excellent services and amenities.",
+      "reviews": 425,
+      "distanceFromCityCenter": 5.4,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Late check-out available on request",
+          "No smoking in rooms",
+          "Free cancellation up to 24 hours before check-in",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 43,
+      "name": "Hotel 43",
+      "location": "New York",
+      "roomsAvailable": 6,
+      "pricePerNight": 259,
+      "rating": 3.8,
+      "amenities": [
+          "Bar",
+          "Parking",
+          "Room Service"
+      ],
+      "description": "Hotel 43 is a premium location offering excellent services and amenities.",
+      "reviews": 586,
+      "distanceFromCityCenter": 7.5,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Check-in from 3 PM",
+          "Pets allowed for an additional charge",
+          "Late check-out available on request",
+          "Free cancellation up to 24 hours before check-in"
+      ]
+  },
+  {
+      "id": 44,
+      "name": "Hotel 44",
+      "location": "Boston",
+      "roomsAvailable": 15,
+      "pricePerNight": 220,
+      "rating": 4.9,
+      "amenities": [
+          "Parking",
+          "WiFi",
+          "Pool",
+          "Spa"
+      ],
+      "description": "Hotel 44 is a premium location offering excellent services and amenities.",
+      "reviews": 442,
+      "distanceFromCityCenter": 3.3,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "Free cancellation up to 24 hours before check-in",
+          "Late check-out available on request",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 45,
+      "name": "Hotel 45",
+      "location": "Los Angeles",
+      "roomsAvailable": 16,
+      "pricePerNight": 284,
+      "rating": 4.2,
+      "amenities": [
+          "Restaurant",
+          "Pool",
+          "Bar",
+          "Free Breakfast"
+      ],
+      "description": "Hotel 45 is a premium location offering excellent services and amenities.",
+      "reviews": 206,
+      "distanceFromCityCenter": 0.8,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "Late check-out available on request",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 46,
+      "name": "Hotel 46",
+      "location": "San Francisco",
+      "roomsAvailable": 13,
+      "pricePerNight": 211,
+      "rating": 4.4,
+      "amenities": [
+          "Restaurant",
+          "WiFi",
+          "Parking",
+          "Bar"
+      ],
+      "description": "Hotel 46 is a premium location offering excellent services and amenities.",
+      "reviews": 304,
+      "distanceFromCityCenter": 7.2,
+      "roomTypes": [
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "Check-in from 3 PM",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 47,
+      "name": "Hotel 47",
+      "location": "Denver",
+      "roomsAvailable": 6,
+      "pricePerNight": 168,
+      "rating": 5.0,
+      "amenities": [
+          "WiFi",
+          "Free Breakfast",
+          "Bar",
+          "Pool",
+          "Spa"
+      ],
+      "description": "Hotel 47 is a premium location offering excellent services and amenities.",
+      "reviews": 442,
+      "distanceFromCityCenter": 2.9,
+      "roomTypes": [
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          },
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          }
+      ],
+      "policies": [
+          "Late check-out available on request",
+          "No smoking in rooms",
+          "Free cancellation up to 24 hours before check-in"
+      ]
+  },
+  {
+      "id": 48,
+      "name": "Hotel 48",
+      "location": "Miami",
+      "roomsAvailable": 13,
+      "pricePerNight": 197,
+      "rating": 3.6,
+      "amenities": [
+          "Spa",
+          "Bar",
+          "Beach Access",
+          "Gym",
+          "Restaurant",
+          "Parking"
+      ],
+      "description": "Hotel 48 is a premium location offering excellent services and amenities.",
+      "reviews": 372,
+      "distanceFromCityCenter": 4.0,
+      "roomTypes": [
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "Late check-out available on request",
+          "No smoking in rooms",
+          "Free cancellation up to 24 hours before check-in",
+          "Check-in from 3 PM"
+      ]
+  },
+  {
+      "id": 49,
+      "name": "Hotel 49",
+      "location": "Boston",
+      "roomsAvailable": 6,
+      "pricePerNight": 138,
+      "rating": 4.0,
+      "amenities": [
+          "Beach Access",
+          "WiFi",
+          "Gym",
+          "Restaurant",
+          "Free Breakfast",
+          "Parking"
+      ],
+      "description": "Hotel 49 is a premium location offering excellent services and amenities.",
+      "reviews": 145,
+      "distanceFromCityCenter": 0.8,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Standard Room",
+              "bedType": "Queen",
+              "maxOccupancy": 2,
+              "features": [
+                  "City View",
+                  "Desk"
+              ]
+          },
+          {
+              "type": "Penthouse",
+              "bedType": "King",
+              "maxOccupancy": 5,
+              "features": [
+                  "Private Pool",
+                  "Terrace",
+                  "Jacuzzi"
+              ]
+          }
+      ],
+      "policies": [
+          "Pets allowed for an additional charge",
+          "No smoking in rooms"
+      ]
+  },
+  {
+      "id": 50,
+      "name": "Hotel 50",
+      "location": "Denver",
+      "roomsAvailable": 14,
+      "pricePerNight": 80,
+      "rating": 4.4,
+      "amenities": [
+          "Gym",
+          "Restaurant",
+          "Beach Access",
+          "Parking"
+      ],
+      "description": "Hotel 50 is a premium location offering excellent services and amenities.",
+      "reviews": 761,
+      "distanceFromCityCenter": 3.0,
+      "roomTypes": [
+          {
+              "type": "Deluxe Suite",
+              "bedType": "King",
+              "maxOccupancy": 3,
+              "features": [
+                  "Balcony",
+                  "Mini Bar",
+                  "Bathtub"
+              ]
+          },
+          {
+              "type": "Family Room",
+              "bedType": "Double",
+              "maxOccupancy": 4,
+              "features": [
+                  "Extra Beds",
+                  "Kitchenette"
+              ]
+          }
+      ],
+      "policies": [
+          "Free cancellation up to 24 hours before check-in",
+          "Pets allowed for an additional charge",
+          "Late check-out available on request",
+          "No smoking in rooms"
+      ]
+  }
+]
